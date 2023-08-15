@@ -1,6 +1,3 @@
-//
-// Created by George Welson on 16-Aug-23.
-//
 #include "main.h"
 int main(void){
     putchar('_');
